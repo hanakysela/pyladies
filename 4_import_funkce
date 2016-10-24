@@ -1,0 +1,3 @@
+from 4_obvod_elipsy.py import obsah_elipsy
+
+print(obsah_elipsy(4, 7))

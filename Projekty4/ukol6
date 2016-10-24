@@ -1,0 +1,2 @@
+for pismeno in range(4):
+    print("radek ", pismeno)
