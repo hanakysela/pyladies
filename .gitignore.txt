@@ -1,0 +1,4 @@
+venv
+Lekce4\.git
+.venv
+.Lekce4\.git
