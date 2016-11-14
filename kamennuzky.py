@@ -1,4 +1,9 @@
-PC = input("Zadej kamen, nuzky, nebo papir pro PC:")
+import random
+seznam = ['kamen', 'nuzky', 'papir']
+PC = random.choice(seznam)
+
+
+#PC = input("Zadej kamen, nuzky, nebo papir pro PC:")
 clovek = input("Zadej kamen, nuzky, nebo papir pro sebe:")
 
 if PC == "kamen":
