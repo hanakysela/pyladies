@@ -10,6 +10,6 @@ kody_zemi = {
 }
 
 vstup = ""
-while True:
+while True:ndo
     vstup = input("Zadej kod")
     print(kody_zemi[vstup])
